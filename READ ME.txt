@@ -1,0 +1,2 @@
+You can use admin@abv.bg to login as admin! The password is "123456".
+Then if you'd like to login as a user, you can choose the user panel from the nav bar and copy an username. Login with it, the password again is "123456"
